@@ -1,3 +1,6 @@
 [submodule "entrenar_codigo"]
 	path = entrenar_codigo
 	url = https://github.com/SanalbuDev1/Challenge_Dev
+[submodule "Spring"]
+	path = Spring
+	url = https://github.com/SanalbuDev1/Spring.git
